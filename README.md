@@ -6,7 +6,7 @@ LLIQR is the C++ implementation of Interquartile Range (IQR) determination using
 ## Getting Started
 Clone this repository to start working with LLIQR.
 
-    git clone https://github.com/[username]/LLIQR.git
+    git clone https://github.com/[username]/InterquartileRange.git
 
 ## Dependencies
 Make sure you have C++ compiler installed which is fully compliant with C++ standards. The software should be able to compile and run on any system with a modern C++ compiler.
